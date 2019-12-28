@@ -1,0 +1,6 @@
+Book yamada 510
+USBcable iida 600
+Book kamijo 510
+Amulet kamijo 1000
+USBCable yoshioka 600
+USBCable hinamura 600
